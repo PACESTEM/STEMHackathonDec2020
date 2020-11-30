@@ -6,6 +6,10 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
 
 ## Tools
 
+* Unity
+
+* MIT App Inventor
+
 * Slack https://slack.com/seidenhack2020 
 
 * Zoom rooms
