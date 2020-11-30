@@ -2,7 +2,7 @@
 
 ## Schedule
 
-The schedule is available [https://bit.ly/2VkAGrO](here).
+The schedule is available [here](https://bit.ly/2VkAGrO).
 
 ## Tools
 
