@@ -2,11 +2,12 @@
 
 ![banner](https://github.com/PACESTEM/STEMHackathonDec2020/blob/main/bannersmall.png)
 
-## Team
+## Organization team
 
   * Teaching: Dr. Christelle Scharff (mobile), Prof. Carmine Guida (game), Prof. Dhruvil Gandhi (design thinking)
   * Speakers: Dean Jonathan Hill, Dr. Lauren Birney, Prof. Julie Gauthier, Dr. Stephen Gosnell
   * Organization: Jill Olimpieri, Melanie Madera, Vicente Gomez
+  * Mentors: Yiokling	Chu, Jack	Egan, Briana	Figueroa, Elan Fisher, Gio	Abou Jaoude, Mark	Anthony De Castro, George 	Lopez, Madison	Agbe-Davies, John	Brilhart, Gio	Abou Jaoude , Radiy	Matveev, Akshay	Shirsat, Ronaldo 	Simbana, Mandar	Patil, Ibrahima	Ndiaye
 
 ## Schedule
 
