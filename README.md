@@ -60,6 +60,8 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
 
 ### Mobile
 
+* [Slides](https://bit.ly/seidenhack202mobileslides)
+
 ### Design Thinking
 
 ### Demos (3 minutes)
