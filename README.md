@@ -1,5 +1,7 @@
 # STEMHackathonDec2020
 
+![banner](https://github.com/PACESTEM/STEMHackathonDec2020/blob/main/bannersmall.png)
+
 ## Team
 
   * Teaching: Dr. Christelle Scharff (mobile), Prof. Carmine Guida (game), Prof. Dhruvil Gandhi (design thinking)
