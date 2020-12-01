@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/PACESTEM/STEMHackathonDec2020/blob/main/bannersmall.png)
 
-## Organization team
+## Organization
 
   * Teaching: Dr. Christelle Scharff (mobile), Prof. Carmine Guida (game), Prof. Dhruvil Gandhi (design thinking)
   * Speakers: Dean Jonathan Hill, Dr. Lauren Birney, Prof. Julie Gauthier, Dr. Stephen Gosnell
