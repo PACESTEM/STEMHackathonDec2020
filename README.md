@@ -29,6 +29,7 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
   * Getting started videos
     * [Video 1](https://www.youtube.com/watch?v=Vdo8UdkgDD8&feature=youtu.be)
     * [Video 2](https://www.youtube.com/watch?v=0hikoCvM3oc&feature=youtu.be)
+  * Show your phone on your screen with [Vysor](https://www.vysor.io/)
     
 * Slack https://slack.com/seidenhack2020 
 
