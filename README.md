@@ -13,6 +13,10 @@
 
 The schedule is available [here](https://bit.ly/2VkAGrO).
 
+## Surveys
+
+  * [Entry survey]( https://bit.ly/seidenhack2020entrysurvey)
+  
 ## Tools
 
 * Unity
@@ -64,7 +68,8 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
 
 ### Mobile
 
-* [Slides](https://bit.ly/seidenhack202mobileslides)
+* [Slides 1](https://bit.ly/seidenhack202mobileslides)
+* [Slides 2](https://bit.ly/2VETou2)
 
 ### Design Thinking
 
