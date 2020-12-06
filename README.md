@@ -15,6 +15,7 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
 
 ## Surveys
 
+  * [Exit survey](https://bit.ly/seidenhack202exitsurvey)
   * [Entry survey]( https://bit.ly/seidenhack2020entrysurvey)
   
 ## Tools
@@ -51,7 +52,7 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
 
 ## Material
 
-## Presentations
+### Presentations
 
 * Dr. J. Stephen Gosnell, Baruch College and Graduate Center, City University of New York. [Oysters and Apps: Using Technology to Inform and Manage](https://docs.google.com/presentation/d/1dhpejGG8HmXtLmuVXwrUyEAPPCEXho65_cwQdbSDlds/edit?usp=sharing)
 
@@ -63,8 +64,6 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
   * [Video: BOP YouTube Channel](https://www.youtube.com/channel/UCu51XPII7JI7ANH_1xklViA)
 * Learning resources
   * [BOP Remote Learning Resources](https://www.billionoysterproject.org/remote-learning)
-
-### Game
 
 ### Mobile
 
@@ -84,6 +83,7 @@ The games/apps will be shown from one computer.
   * Team members
   * Inspiration for the app/game
   * Users
+  * Technologies
   * Demo the features of the app/game
   * Talk about your experience in the hackathon
   
