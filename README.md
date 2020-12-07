@@ -2,12 +2,16 @@
 
 ![banner](https://github.com/PACESTEM/STEMHackathonDec2020/blob/main/bannersmall.png)
 
+## On the Pace web site
+
+  * https://www.pace.edu/seidenberg/seidenhack
+  
 ## Organization
 
   * Teaching: Dr. Christelle Scharff (mobile), Prof. Carmine Guida (game), Prof. Dhruvil Gandhi (design thinking)
   * Speakers: Dean Jonathan Hill, Dr. Lauren Birney, Prof. Julie Gauthier, Dr. Stephen Gosnell
   * Organization: Jill Olimpieri, Melanie Madera, Vicente Gomez
-  * Mentors: Yiokling	Chu, Jack	Egan, Briana	Figueroa, Elan Fisher, Gio	Abou Jaoude, Mark	Anthony De Castro, George Lopez, John	Brilhart, Gio	Abou Jaoude, Radiy	Matveev, Akshay	Shirsat, Ronaldo 	Simbana, Ibrahima	Ndiaye
+  * Mentors: Yiokling	Chu, Jack	Egan, Briana	Figueroa, Elan Fisher, Gio	Abou Jaoude, Mark	Anthony De Castro, George Lopez, John	Brilhart, Radiy	Matveev, Akshay	Shirsat, Indira Priyadarshini Singamsetti, Ronaldo	Simbana, Ibrahima	Ndiaye
 
 ## Schedule
 
