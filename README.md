@@ -2,6 +2,8 @@
 
 ![banner](https://github.com/PACESTEM/STEMHackathonDec2020/blob/main/bannersmall.png)
 
+![conclusion](https://github.com/PACESTEM/STEMHackathonDec2020/blob/main/conclusion.jpg)
+
 ## On the Pace web site
 
   * https://www.pace.edu/seidenberg/seidenhack
