@@ -81,26 +81,27 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
 
 ### Demos (3 minutes)
 
-The games/apps will be shown from one computer. 
-
-  * Title of your app/game
-  * Team members
-  * Inspiration for the app/game
-  * Users
-  * Technologies
-  * Demo the features of the app/game
-  * Talk about your experience in the hackathon
+  * The games/apps will be shown from one computer. 
+    * Title of your app/game
+    * Team members
+    * Inspiration for the app/game
+    * Users
+    * Technologies
+    * Demo the features of the app/game
+    * Talk about your experience in the hackathon
   
-  * To post in Slack:
-   * 2-3 sentences describing the app/game
-   * 2-3 screenshots
-   * A video (optional)
-   * Game: link
-   * App: apk file
+  * To post on Slack:
+    * 2-3 sentences describing the app/game
+    * 2-3 screenshots
+    * A video (optional)
+    * Game: link
+    * App: apk file
    
   * All projects will be on the Pace University web site.
 
 ## Projects
+
+Check the Pace website https://www.pace.edu/seidenberg/seidenhack
 
 * Team 1
 * Team 2
