@@ -7,6 +7,10 @@
 ## On the Pace web site
 
   * https://www.pace.edu/seidenberg/seidenhack
+
+## Final presentations
+  
+  * https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59c6c3c9-a8da-4d96-a6d8-ac890143cbce
   
 ## Organization
 
