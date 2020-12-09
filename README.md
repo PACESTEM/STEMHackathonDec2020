@@ -83,7 +83,9 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
 ### Design Thinking
 
 * Icebreaker [Around the world in 30 minutes](https://app.mural.co/t/nycdesignfactory1093/m/nycdesignfactory1093/1606854430253/0aca98f85e1d9dd274a4a71efea14b035e516af1)
-* Brainstorming
+* Brainstorming 
+   * [Slides] (https://docs.google.com/presentation/d/18rDtfC5Vhfyxhsy8h1IkdcGlIVLq9ldzoFVSvKjTOdQ/edit?usp=sharing)
+   * [Workbook] (https://docs.google.com/presentation/d/1Sgq3FGRrQThIkexwynuEfodJZlkzFlL4xw_O4vK9FVQ/edit?usp=sharing)
 
 ### Demos (3 minutes)
 
