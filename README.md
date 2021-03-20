@@ -46,7 +46,7 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
     * [Video 2](https://www.youtube.com/watch?v=0hikoCvM3oc&feature=youtu.be)
   * Show your phone on your screen with [Vysor](https://www.vysor.io/)
     
-* Slack https://slack.com/seidenhack2020 
+* Slack https://seidenhackdec2020.slack.com 
 
 * Zoom rooms
 
